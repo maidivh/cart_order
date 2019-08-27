@@ -1,14 +1,14 @@
 {
-  "name": "medivh/order_cart",
-  "description": "一套订单和购物车体系，可扩展",
-  "type": "php",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Medivh",
-      "email": "maidivh@163.com"
-    }
-  ],
-  "minimum-stability": "dev",
-  "require": {}
+    "name": "medivh/cart_order",
+    "description": "一套订单加购物车模块，可扩展，在里面你可以嵌入促销系统",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Medivh",
+            "email": "maidivh@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
